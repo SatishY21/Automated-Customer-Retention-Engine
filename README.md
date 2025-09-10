@@ -1,17 +1,17 @@
-# 🛡️ ChurnGuard: Proactive Customer Retention Platform
+# 🛡️ ACRE Automated-Customer-Retention-Engine
 
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30.0-ff69b4.svg)](https://streamlit.io)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.6.1-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**ChurnGuard** is an end-to-end application that leverages machine learning to predict customer churn and automates the retention process. This tool provides an interactive interface to identify high-risk customers and triggers an intelligent workflow to proactively engage them with retention offers.
+**ACRE** is an end-to-end application that leverages machine learning to predict customer churn and automates the retention process. This tool provides an interactive interface to identify high-risk customers and triggers an intelligent workflow to proactively engage them with retention offers.
 
 ---
 
 ### ✨ Live Demo
 
-> **[🚀 Access the live application here!](https://your-streamlit-app-url.streamlit.app)** > *(Note: Please replace this with your actual Streamlit Community Cloud URL after deployment.)*
+> **[🚀 Access the live application here!](https://automated-customer-retention-engine-dtampjuzmwhjek9elakblf.streamlit.app/)** > 
 
 ## Key Features
 
