@@ -20,6 +20,17 @@
 - **🤖 Automated Retention Workflow:** For customers identified as high-risk, the app can trigger an n8n webhook, initiating a custom workflow that can automatically send personalized retention emails, special offers, or create support tickets.
 - **✅ High Performance:** The model is built on a robust Scikit-learn pipeline, ensuring efficient data preprocessing and reliable predictions.
 
+- ## 🛠️ Tech Stack
+
+- **Backend & Model:** Python, Scikit-learn, Pandas, Joblib
+- **Frontend:** Streamlit
+- **Automation:** n8n (via Webhooks)
+- **Dataset:** [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
 ## ⚙️ System Workflow
 
 ```mermaid
@@ -35,13 +46,4 @@ graph TD
     I --> J[Send Email to Customer];
 
 
-## 🛠️ Tech Stack
 
-- **Backend & Model:** Python, Scikit-learn, Pandas, Joblib
-- **Frontend:** Streamlit
-- **Automation:** n8n (via Webhooks)
-- **Dataset:** [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle.
-
-## 📄 License
-
-This project is licensed under the MIT License.
