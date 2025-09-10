@@ -34,6 +34,7 @@ graph TD
     H --> I[Generate Personalized Email via AI];
     I --> J[Send Email to Customer];
 
+
 ## 🛠️ Tech Stack
 
 - **Backend & Model:** Python, Scikit-learn, Pandas, Joblib
