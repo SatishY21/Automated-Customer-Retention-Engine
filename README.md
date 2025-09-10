@@ -33,3 +33,14 @@ graph TD
     G --> H(n8n Automation Engine);
     H --> I[Generate Personalized Email via AI];
     I --> J[Send Email to Customer];
+
+## 🛠️ Tech Stack
+
+- **Backend & Model:** Python, Scikit-learn, Pandas, Joblib
+- **Frontend:** Streamlit
+- **Automation:** n8n (via Webhooks)
+- **Dataset:** [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle.
+
+## 📄 License
+
+This project is licensed under the MIT License.
