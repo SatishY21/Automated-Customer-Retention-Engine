@@ -15,7 +15,7 @@
 >
 > ## 📸 Screenshot
 
-![App Screenshot]() 
+![App Screenshot](https://github.com/SatishY21/Automated-Customer-Retention-Engine/blob/main/StreamlitUI.png) 
 
 ## Key Features
 
