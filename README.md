@@ -11,7 +11,11 @@
 
 ### ✨ Live Demo
 
-> **[🚀 Access the live application here!](https://automated-customer-retention-engine-dtampjuzmwhjek9elakblf.streamlit.app/)** > 
+> **[🚀 Access the live application here!](https://automated-customer-retention-engine-dtampjuzmwhjek9elakblf.streamlit.app/)** >
+>
+> ## 📸 Screenshot
+
+![App Screenshot]() 
 
 ## Key Features
 
